@@ -188,3 +188,7 @@ The application simplifies access to information, reduces reading time and demon
 **Framework:** PyTorch and Hugging Face Transformers  
 **Frontend:** Streamlit  
 **Language:** Python
+
+## 🎥 Video: Project Presentation and Demonstration
+
+   ▶️ [Watch the demo video](https://drive.google.com/file/d/1VD9tjjHBDAafHgR46lfeN1j8QgLuiFyL/view?usp=drive_link)
